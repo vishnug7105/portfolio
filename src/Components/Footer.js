@@ -5,7 +5,7 @@ const Footer = () =>{
     <>
     <div className="bg-gray-800 text-sm p-4 text-center text-white">
      Copyright © 2023 vishnu vardhan.All Rights reserved.
-   </div>
+     </div>
     </>
   )
 }
